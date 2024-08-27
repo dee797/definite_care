@@ -1,1 +1,1 @@
-# definite_care
+A website mockup for Definite Care Home Health. The website consists of four pages: Home, Services, Training, and Contact.
